@@ -1,0 +1,382 @@
+TeamID,TeamName,HomeCityID
+1101,Abilene Chr,4001
+1102,Air Force,4356
+1103,Akron,4002
+1104,Alabama,4353
+1105,Alabama A&M,4245
+1106,Alabama St,4220
+1107,SUNY Albany,4003
+1108,Alcorn St,4200
+1109,Alliant Intl,
+1110,American Univ,4363
+1111,Appalachian St,4036
+1112,Arizona,4350
+1113,Arizona St,4343
+1114,Ark Little Rock,4196
+1115,Ark Pine Bluff,4268
+1116,Arkansas,4119
+1117,Arkansas St,4172
+1118,Armstrong St,
+1119,Army,4367
+1120,Auburn,4018
+1121,Augusta,
+1122,Austin Peay,4073
+1123,Ball St,4227
+1124,Baylor,4362
+1125,Belmont,4233
+1126,Bethune-Cookman,4092
+1127,Binghamton,4360
+1128,Birmingham So,
+1129,Boise St,4035
+1130,Boston College,4070
+1131,Boston Univ,4039
+1132,Bowling Green,4042
+1133,Bradley,4265
+1134,Brooklyn,
+1135,Brown,4281
+1136,Bryant,4317
+1137,Bucknell,4191
+1138,Buffalo,4049
+1139,Butler,4161
+1140,BYU,4282
+1141,C Michigan,4226
+1142,Cal Poly,4308
+1143,California,4027
+1144,Campbell,4050
+1145,Canisius,4049
+1146,Cent Arkansas,4081
+1147,Centenary,4315
+1148,Central Conn,4235
+1149,Charleston So,4064
+1150,Charlotte,4066
+1151,Chattanooga,4068
+1152,Chicago St,4071
+1153,Cincinnati,4072
+1154,Citadel,4064
+1155,Clemson,4074
+1156,Cleveland St,4075
+1157,Coastal Car,4082
+1158,Col Charleston,4064
+1159,Colgate,4144
+1160,Colorado,4040
+1161,Colorado St,4121
+1162,Columbia,4239
+1163,Connecticut,4149
+1164,Coppin St,4022
+1165,Cornell,4164
+1166,Creighton,4255
+1167,CS Bakersfield,4021
+1168,CS Fullerton,4127
+1169,CS Northridge,4249
+1170,CS Sacramento,4300
+1171,Dartmouth,4147
+1172,Davidson,4089
+1173,Dayton,4091
+1174,Delaware,4240
+1175,Delaware St,4099
+1176,Denver,4096
+1177,DePaul,4298
+1178,Detroit,4098
+1179,Drake,4097
+1180,Drexel,4266
+1181,Duke,4101
+1182,Duquesne,4270
+1183,E Illinois,4062
+1184,E Kentucky,4291
+1185,E Michigan,4374
+1186,E Washington,4069
+1187,East Carolina,4138
+1188,SIUE,4107
+1189,Elon,4109
+1190,ETSU,4170
+1191,Evansville,4114
+1192,F Dickinson,4142
+1193,Fairfield,4116
+1194,FL Atlantic,4033
+1195,FGCU,4123
+1196,Florida,4128
+1197,Florida A&M,4341
+1198,Florida Intl,4214
+1199,Florida St,4341
+1200,Fordham,4045
+1201,Fresno St,4126
+1202,Furman,4139
+1203,G Washington,4363
+1204,Ga Southern,4334
+1205,Gardner Webb,4034
+1206,George Mason,4115
+1207,Georgetown,4363
+1208,Georgia,4014
+1209,Georgia St,4016
+1210,Georgia Tech,4016
+1211,Gonzaga,4324
+1212,Grambling,4132
+1213,Grand Canyon,4267
+1214,Hampton,4146
+1215,Hardin-Simmons,
+1216,Hartford,4364
+1217,Harvard,4052
+1218,Hawaii,4155
+1219,High Point,4152
+1220,Hofstra,4151
+1221,Holy Cross,4372
+1222,Houston,4157
+1223,Houston Chr,4157
+1224,Howard,4363
+1225,Idaho,4225
+1226,Idaho St,4272
+1227,IL Chicago,4071
+1228,Illinois,4060
+1229,Illinois St,4246
+1230,Incarnate Word,4302
+1231,Indiana,4032
+1232,Indiana St,4344
+1233,Iona,4238
+1234,Iowa,4162
+1235,Iowa St,4006
+1236,PFW,4124
+1237,IUPUI,4161
+1238,Jackson St,4166
+1239,Jacksonville,4168
+1240,Jacksonville St,4167
+1241,James Madison,4148
+1242,Kansas,4189
+1243,Kansas St,4211
+1244,Kennesaw,4176
+1245,Kent,4177
+1246,Kentucky,4193
+1247,La Salle,4266
+1248,Lafayette,4105
+1249,Lamar,4026
+1250,Lehigh,4028
+1251,Liberty,4206
+1252,Lipscomb,4233
+1253,Long Beach St,4198
+1254,LIU Brooklyn,4047
+1255,Longwood,4118
+1256,Louisiana Tech,4299
+1257,Louisville,4203
+1258,Loy Marymount,4201
+1259,Loyola MD,4022
+1260,Loyola-Chicago,4071
+1261,LSU,4024
+1262,MA Lowell,4204
+1263,Maine,4259
+1264,Manhattan,4293
+1265,Marist,4275
+1266,Marquette,4215
+1267,Marshall,4158
+1268,Maryland,4077
+1269,Massachusetts,4007
+1270,McNeese St,4184
+1271,MD E Shore,4279
+1272,Memphis,4213
+1273,Mercer,4208
+1274,Miami FL,4084
+1275,Miami OH,4261
+1276,Michigan,4010
+1277,Michigan St,4103
+1278,Minnesota,4216
+1279,Mississippi,4260
+1280,Mississippi St,4332
+1281,Missouri,4463
+1282,Missouri KC,4174
+1283,Missouri St,4327
+1284,Monmouth NJ,4366
+1285,Montana,4217
+1286,Montana St,4043
+1287,Morehead St,4223
+1288,Morgan St,4022
+1289,Morris Brown,
+1290,MS Valley St,4165
+1291,Mt St Mary's,4110
+1292,MTSU,4228
+1293,Murray St,4229
+1294,N Colorado,4134
+1295,N Dakota St,4117
+1296,N Illinois,4093
+1297,N Kentucky,4153
+1298,Navy,4011
+1299,NC A&T,4136
+1300,NC Central,4101
+1301,NC State,4287
+1302,NE Illinois,
+1303,NE Omaha,4255
+1304,Nebraska,4195
+1305,Nevada,4290
+1306,New Hampshire,4102
+1307,New Mexico,4004
+1308,New Mexico St,4187
+1309,New Orleans,4237
+1310,Niagara,4242
+1311,Nicholls St,4345
+1312,NJIT,4241
+1313,Norfolk St,4244
+1314,North Carolina,4061
+1315,North Dakota,4133
+1316,North Florida,4168
+1317,North Texas,4095
+1318,Northeastern,4039
+1319,Northern Arizona,4120
+1320,Northern Iowa,4058
+1321,Northwestern,4113
+1322,Northwestern LA,4234
+1323,Notre Dame,4250
+1324,Oakland,4295
+1325,Ohio,4015
+1326,Ohio St,4080
+1327,Okla City,
+1328,Oklahoma,4247
+1329,Oklahoma St,4335
+1330,Old Dominion,4244
+1331,Oral Roberts,4351
+1332,Oregon,4112
+1333,Oregon St,4086
+1334,Pacific,4336
+1335,Penn,4266
+1336,Penn St,4355
+1337,Pepperdine,4210
+1338,Pittsburgh,4270
+1339,Portland,4274
+1340,Portland St,4274
+1341,Prairie View,4276
+1342,Presbyterian,4076
+1343,Princeton,4280
+1344,Providence,4281
+1345,Purdue,4365
+1346,Quinnipiac,4143
+1347,Radford,4286
+1348,Rhode Island,4179
+1349,Rice,4157
+1350,Richmond,4292
+1351,Rider,4190
+1352,Robert Morris,4221
+1353,Rutgers,4269
+1354,S Carolina St,4256
+1355,S Dakota St,4046
+1356,S Illinois,4055
+1357,Sacred Heart,4116
+1358,Sam Houston St,4160
+1359,Samford,4030
+1360,San Diego,4303
+1361,San Diego St,4303
+1362,San Francisco,4304
+1363,San Jose St,4305
+1364,UC Santa Barbara,4310
+1365,Santa Clara,4311
+1366,Savannah St,4312
+1367,SC Upstate,4323
+1368,SE Louisiana,4145
+1369,SE Missouri St,4054
+1370,Seattle,4313
+1371,Seton Hall,4241
+1372,SF Austin,4231
+1373,Siena,4003
+1374,SMU,4088
+1375,South Alabama,4218
+1376,South Carolina,4079
+1377,South Dakota,4359
+1378,South Florida,4342
+1379,Southern Miss,4150
+1380,Southern Univ,4024
+1381,Southern Utah,4057
+1382,St Bonaventure,4328
+1383,St Francis NY,4048
+1384,St Francis PA,4199
+1385,St John's,4285
+1386,St Joseph's PA,4266
+1387,St Louis,4329
+1388,St Mary's CA,4222
+1389,St Peter's,4169
+1390,Stanford,4331
+1391,Stetson,4094
+1392,Stony Brook,4337
+1393,Syracuse,4340
+1394,TAM C. Christi,4085
+1395,TCU,4125
+1396,Temple,4266
+1397,Tennessee,4180
+1398,Tennessee St,4233
+1399,Tennessee Tech,4083
+1400,Texas,4020
+1401,Texas A&M,4078
+1402,Texas St,4309
+1403,Texas Tech,4205
+1404,TN Martin,4212
+1405,Toledo,4346
+1406,Towson,4348
+1407,Troy,4349
+1408,Tulane,4237
+1409,Tulsa,4351
+1410,UTRGV,4106
+1411,TX Southern,4157
+1412,UAB,4030
+1413,UC Davis,4090
+1414,UC Irvine,4163
+1415,UC Riverside,4294
+1416,UCF,4258
+1417,UCLA,4201
+1418,Louisiana,4181
+1419,ULM,4219
+1420,UMBC,4022
+1421,UNC Asheville,4013
+1422,UNC Greensboro,4136
+1423,UNC Wilmington,4370
+1424,UNLV,4188
+1425,USC,4201
+1426,UT Arlington,4012
+1427,UT San Antonio,4302
+1428,Utah,4301
+1429,Utah St,4197
+1430,Utah Valley,4257
+1431,UTEP,4108
+1432,Utica,
+1433,VCU,4292
+1434,Valparaiso,4357
+1435,Vanderbilt,4233
+1436,Vermont,4051
+1437,Villanova,4361
+1438,Virginia,4067
+1439,Virginia Tech,4031
+1440,VMI,4194
+1441,W Carolina,4087
+1442,W Illinois,4207
+1443,WKU,4041
+1444,W Michigan,4173
+1445,W Salem St,4371
+1446,W Texas A&M,
+1447,Wagner,4333
+1448,Wake Forest,4371
+1449,Washington,4313
+1450,Washington St,4284
+1451,Weber St,4253
+1452,West Virginia,4224
+1453,WI Green Bay,4135
+1454,WI Milwaukee,4215
+1455,Wichita St,4368
+1456,William & Mary,4369
+1457,Winthrop,4297
+1458,Wisconsin,4209
+1459,Wofford,4323
+1460,Wright St,4091
+1461,Wyoming,4186
+1462,Xavier,4072
+1463,Yale,4236
+1464,Youngstown St,4373
+1465,Cal Baptist,4294
+1466,North Alabama,4444
+1467,Merrimack,4462
+1468,Bellarmine,4203
+1469,Utah Tech,4476
+1470,Tarleton St,4477
+1471,UC San Diego,4478
+1472,St Thomas MN,4482
+1473,Lindenwood,4396
+1474,Queens NC,4066
+1475,Southern Indiana,4114
+1476,Stonehill,4490
+1477,East Texas A&M,4488
+1478,Le Moyne,4495
+1479,Mercyhurst,4508
+1480,West Georgia,4507
+1481,New Haven,4526

@@ -1,0 +1,21 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# OS / editor / tool files
+.DS_Store
+.idea/
+.claude/
+claude
+
+# Files over GitHub's 100MB limit (regenerable / downloadable from Kaggle)
+MMasseyOrdinals.csv
+daily_silver_elo.csv
+check.csv
